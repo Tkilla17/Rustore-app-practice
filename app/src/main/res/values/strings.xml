@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Витрина RuStore</string>
+    <string name="back">Назад</string>
+    <string name="retry">Повторить</string>
+    <string name="error_load_data">Не удалось загрузить данные</string>
+    <string name="error_check_connection">Проверьте подключение и попробуйте снова</string>
+    <string name="error_load_categories">Ошибка загрузки категорий</string>
+    <string name="error_load_detail">Ошибка загрузки карточки</string>
+    <string name="error_load_screenshots">Ошибка загрузки скриншотов</string>
+    <string name="error_search">Ошибка поиска</string>
+
+    <string name="screen_apps">Приложения</string>
+    <string name="screen_categories">Категории</string>
+    <string name="screen_search">Поиск</string>
+    <string name="all_categories">Все категории</string>
+    <string name="empty_apps_title">Пусто</string>
+    <string name="empty_apps_message">Не нашли приложения</string>
+    <string name="empty_search_title">Список пуст</string>
+    <string name="empty_search_message">Измените запрос</string>
+    <string name="search_app_name_label">Название приложения</string>
+    <string name="popular_apps">Популярные приложения</string>
+    <string name="category_finance">Финансы</string>
+    <string name="category_tools">Инструменты</string>
+    <string name="category_games">Игры</string>
+    <string name="category_government">Государственные</string>
+    <string name="category_transport">Транспорт</string>
+
+    <string name="onboarding_title">Добро пожаловать в RuStore</string>
+    <string name="onboarding_action">Перейти на витрину</string>
+    <string name="rustore_logo_text">Ru</string>
+
+    <string name="developer_format">Разработчик: %1$s</string>
+    <string name="category_format">Категория: %1$s</string>
+    <string name="age_rating_format">Возрастной рейтинг: %1$s</string>
+    <string name="screenshots">Скриншоты</string>
+    <string name="description">Описание</string>
+    <string name="available_in_catalog">Доступно в каталоге</string>
+    <string name="install">Установить</string>
+    <string name="demo_install_format">Демо-установка: %1$s</string>
+    <string name="screenshot_counter_format">%1$d / %2$d</string>
+</resources>
